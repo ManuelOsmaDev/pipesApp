@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pipe';
+  name:string = 'jose manuel sanchez osma';
+  valor:number = 223322;
 }
