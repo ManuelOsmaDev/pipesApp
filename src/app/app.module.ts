@@ -24,6 +24,7 @@ registerLocaleData(localEsCo);
     AppRouterModule,
     VentasModule
 
+
   ],
   providers: [{
   provide:LOCALE_ID,useValue: 'es-CO'}],
